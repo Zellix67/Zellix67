@@ -5,7 +5,7 @@
 <a href="https://www.zellix.xyz/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/ZwFFFYfxEC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
+<a href="https://discord.gg/ZwFFFYfxEC"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br><br><br>
 
 My name is Zellix a.k.a Mowgli, I live in <img src="https://www.flaticon.com/svg/static/icons/svg/206/206657.svg" width="13"/>. I'm a young developer I already have scripts that you can find on my github, I specialize in python and I'm also learning in other languages.
 
